@@ -7,7 +7,7 @@ version:  0.0.1
 language: en
 narrator: English
 
-repository: https://github.com/dpocloud/ml_intro
+repository: https://github.com/dpocloud/pytorch_nn
 
 icon:    img/logo_mephi2.png
 logo:    img/logo_pytorch_nn.png
