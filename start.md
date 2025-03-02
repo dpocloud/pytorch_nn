@@ -29,7 +29,7 @@ font:     Noto Sans Egyptian Hieroglyphs, Noto Sans Ogham
 -->
 
 
-# Нейронные сети в PyTorch
+# Нейронные сети в PyTorch (Test)
 
 
                             --{{0}}--
