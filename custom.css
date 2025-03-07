@@ -35,7 +35,7 @@ h1.lia-h1 {
   font-family: var(--main-font) !important;
 }
 
-
+/* 
 .lia-toc .lia-toolbar {
   background: var(--main-bg-color) !important;
 }
@@ -82,7 +82,7 @@ h1.lia-h1 {
 }
 
 .lia-link {
-  /* color: #00FF00 !important */
   font-family: var(--main-font) !important;
-}
+} 
+*/
 
