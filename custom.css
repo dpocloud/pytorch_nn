@@ -1,15 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700&display=swap');
+
 :root {
   --main-bg-color: #ccc;
+  --main-font: 'Montserrat', 'Verdana', sans-serif;
 }
 
 body {
-  font-family: 'Verdana', sans-serif !important;
+  font-family: var(--main-font) !important;
+  font-weight: 400;
 }
 
 h1.lia-h1 {
-  font-size:5vw !important;
-  margin-left:auto !important;
-  margin-right:auto !important;
+  font-size: 5vw !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+  font-weight: 600;
+  font-family: var(--main-font) !important;
 }
 
 .lia-toc .lia-toolbar {
@@ -18,10 +24,12 @@ h1.lia-h1 {
 
 .lia-btn {
   background: var(--main-bg-color) !important;
+  font-family: var(--main-font) !important;
 }
 
 .lia-input {
   background: var(--main-bg-color) !important;
+  font-family: var(--main-font) !important;
 }
 
 .lia-active {
@@ -31,23 +39,28 @@ h1.lia-h1 {
 .lia-quote {
   background: var(--main-bg-color) !important;
   border-left-color: #990000 !important;
-  color: #FFFFFF !important
+  color: #FFFFFF !important;
+  font-family: var(--main-font) !important;
 }
 
 .lia-accordion {
   background: var(--main-bg-color) !important;
   font-size: 12px !important;
+  font-family: var(--main-font) !important;
 }
 
 .lia-accordion-dummy {
   background: var(--main-bg-color) !important;
   font-size: 12px !important;
+  font-family: var(--main-font) !important;
 }
 
 .lia-quiz {
   border-color: var(--main-bg-color) !important;
+  font-family: var(--main-font) !important;
 }
 
 .lia-link {
   /* color: #00FF00 !important */
+  font-family: var(--main-font) !important;
 }
