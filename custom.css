@@ -43,6 +43,8 @@ h1.lia-h1 {
 .lia-btn {
   background: var(--main-bg-color) !important;
   font-family: var(--main-font) !important;
+  border-color: aquamarine !important;
+  border-width: 2px !important;
 }
 
 .lia-input {
@@ -57,6 +59,7 @@ h1.lia-h1 {
 .lia-quote {
   background: var(--main-bg-color) !important;
   border-left-color: #990000 !important;
+  border-left-width: 5px !important;
   color: #000 !important;
   font-family: var(--main-font) !important;
 }
