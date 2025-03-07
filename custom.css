@@ -1,8 +1,8 @@
-@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@300;400;500;600;700&display=swap');
 
 :root {
   --main-bg-color: #ccc;
-  --main-font: 'Montserrat', 'Verdana', sans-serif;
+  --main-font: 'Rubik', 'Verdana', sans-serif;
 }
 
 body {
@@ -56,7 +56,7 @@ h1.lia-h1 {
 .lia-quote {
   background: var(--main-bg-color) !important;
   border-left-color: #990000 !important;
-  color: #FFFFFF !important;
+  color: #000 !important;
   font-family: var(--main-font) !important;
 }
 
@@ -81,3 +81,4 @@ h1.lia-h1 {
   /* color: #00FF00 !important */
   font-family: var(--main-font) !important;
 }
+
