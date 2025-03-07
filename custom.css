@@ -18,7 +18,15 @@ h1.lia-h1 {
   font-family: var(--main-font) !important;
 }
 
-h1 {
+.h1 {
+  font-size: 5vw !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+  font-weight: 600;
+  font-family: var(--main-font) !important;
+}
+
+.h2 {
   font-size: 5vw !important;
   margin-left: auto !important;
   margin-right: auto !important;
